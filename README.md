@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kemal Baz</h1>
 <h3 align="center">A student on her way to becoming a software development specialist</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+(img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JkaXUwZDFvemhrb3l1Zzl6ampkM21uZW13OXF3cTNhcXBqYW13bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTTAjM197sku8MgrRa/giphy.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonyuser-x&label=Profile%20views&color=0e75b6&style=flat" alt="anonyuser-x" /> </p>
 

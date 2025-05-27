@@ -12,9 +12,7 @@
 
 - 🤝 I’m looking for help with **mobile projects**
 
-- 💬 Ask me about **python , web projects**
-
-- 📫 How to reach me **kemalbaz10@gmail.com**
+- 💬 Ask me about **python , web projects**, Android Mobile Project**
 
 - ⚡ Fun fact **Artificial intelligence will take over the world**
 

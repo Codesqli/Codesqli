@@ -66,9 +66,9 @@
   </a> 
   
   <!-- Eklenen Siber Güvenlik Odaklı Araçlar -->
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/>
+  </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap-logo.svg" alt="nmap" width="40" height="40"/> 
   </a> 

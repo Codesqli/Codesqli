@@ -55,9 +55,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
@@ -90,11 +87,21 @@
 <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/alvistack/ansible-role-owasp_zap/master/alvistack.svg" alt="owasp-zap" width="40" height="40"/>
 </a>
-
-<!-- John the Ripper -->
-<a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/80h3m14n/80h3m14n/main/images/metasploit.svg" alt="john-the-ripper" width="40" height="40"/>
+<!-- Offensive / Vulnerability Tools -->
+<a href="https://www.greenbone.net/en/community-edition/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/BJBjorn/dashboard-icons/main/icons/openvas.svg" alt="openvas" width="40" height="40"/>
 </a>
+<a href="https://github.com/EmpireProject/Empire" target="_blank" rel="noreferrer">
+  <img src="https://worldvectorlogo.com/logos/empire.svg" alt="empire-framework" width="40" height="40"/>
+</a>
+<a href="https://github.com/projectdiscovery/nuclei" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/master/resources/nuclei-logo.svg" alt="nuclei" width="40" height="40"/>
+</a>
+<a href="https://github.com/PowerShellMafia/PowerSploit" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Documentation/PowerSploit_Logo.svg" alt="powersploit" width="40" height="40"/>
+</a>
+
+
 </p
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonyuser-x&show_icons=true&locale=en&layout=compact" alt="anonyuser-x" /></p>
 

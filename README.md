@@ -78,22 +78,22 @@
 
 <!-- Metasploit -->
 <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_of_Metasploit.svg" alt="metasploit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rohhthone/logo/main/metasploit.svg" alt="metasploit" width="40" height="40"/>
 </a>
 
 <!-- Burp Suite -->
 <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_of_PortSwigger.svg" alt="burp-suite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Mit-Rax/BURPY/main/burp-suite-professional.svg" alt="burp-suite" width="40" height="40"/>
 </a>
 
 <!-- OWASP ZAP -->
 <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/OWASP_ZAP_logo.svg" alt="owasp-zap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/alvistack/ansible-role-owasp_zap/master/alvistack.svg" alt="owasp-zap" width="40" height="40"/>
 </a>
 
 <!-- John the Ripper -->
 <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
-  <img src="https://simpleicons.org/icons/johntheripper.svg" alt="john-the-ripper" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/80h3m14n/80h3m14n/main/images/metasploit.svg" alt="john-the-ripper" width="40" height="40"/>
 </a>
 </p
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonyuser-x&show_icons=true&locale=en&layout=compact" alt="anonyuser-x" /></p>

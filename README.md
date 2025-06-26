@@ -8,12 +8,6 @@
 <div align="center">
   <img src="https://teeltechcanada.com/2015/wp-content/uploads/2017/08/cyber-security-banner-red.jpg" alt="Red Team Banner" style="width:100%; height:auto; display:block;" />
 </div>
-  
-## 🔥 Featured Projects
-
-- [Awesome Penetration Testing Tools](https://github.com/anonyuser-x/awesome-pentest-tools) — A curated list of penetration testing resources.
-- [Mobile Secure App](https://github.com/anonyuser-x/mobile-secure-app) — A mobile project with security-first approach.
-- [AI Cyber Defense](https://github.com/anonyuser-x/ai-cyber-defense) — Exploring AI-driven security techniques.
 
 
 <!-- Profile Views -->

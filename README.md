@@ -87,18 +87,11 @@
 <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/alvistack/ansible-role-owasp_zap/master/alvistack.svg" alt="owasp-zap" width="40" height="40"/>
 </a>
+
 <!-- Offensive / Vulnerability Tools -->
-<a href="https://www.greenbone.net/en/community-edition/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/BJBjorn/dashboard-icons/main/icons/openvas.svg" alt="openvas" width="40" height="40"/>
-</a>
+
 <a href="https://github.com/EmpireProject/Empire" target="_blank" rel="noreferrer">
   <img src="https://worldvectorlogo.com/logos/empire.svg" alt="empire-framework" width="40" height="40"/>
-</a>
-<a href="https://github.com/projectdiscovery/nuclei" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/master/resources/nuclei-logo.svg" alt="nuclei" width="40" height="40"/>
-</a>
-<a href="https://github.com/PowerShellMafia/PowerSploit" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Documentation/PowerSploit_Logo.svg" alt="powersploit" width="40" height="40"/>
 </a>
 
 

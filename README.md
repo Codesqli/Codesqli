@@ -65,29 +65,36 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   
-  <!-- Eklenen Siber Güvenlik Odaklı Araçlar -->
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://gitlab.com/kalilinux/documentation/graphic-resources/-/raw/27bf9e2c791773aaf65853512e12199ed1635607/kali-dragon-logo/kali-dragon-icon-simple-blue.svg" alt="kali-linux" width="40" height="40"/>
-  </a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/nmap-logo.svg" alt="nmap" width="40" height="40"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/wireshark.svg" alt="wireshark" width="40" height="40"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.rapid7.com/globalassets/_icons/metasploit-icon.svg" alt="metasploit" width="40" height="40"/> 
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/46304398?s=200&v=4" alt="burpsuite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.zaproxy.org/images/zap-icon-128x128.png" alt="owasp-zap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/John_the_Ripper_logo.png" alt="john-the-ripper" width="40" height="40"/> 
-  </a>
+ <!-- Siber Güvenlik Odaklı Araçlar -->
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+  <img src="https://gitlab.com/kalilinux/documentation/graphic-resources/-/raw/27bf9e2c791773aaf65853512e12199ed1635607/kali-dragon-logo/kali-dragon-icon-simple-blue.svg" alt="kali-linux" width="40" height="40"/>
+</a>
+<a href="https://nmap.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/nmap-logo.svg" alt="nmap" width="40" height="40"/>
+</a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/wireshark.svg" alt="wireshark" width="40" height="40"/>
+</a>
 
+<!-- Metasploit -->
+<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_of_Metasploit.svg" alt="metasploit" width="40" height="40"/>
+</a>
+
+<!-- Burp Suite -->
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Logo_of_PortSwigger.svg" alt="burp-suite" width="40" height="40"/>
+</a>
+
+<!-- OWASP ZAP -->
+<a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/OWASP_ZAP_logo.svg" alt="owasp-zap" width="40" height="40"/>
+</a>
+
+<!-- John the Ripper -->
+<a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
+  <img src="https://simpleicons.org/icons/johntheripper.svg" alt="john-the-ripper" width="40" height="40"/>
+</a>
 </p
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonyuser-x&show_icons=true&locale=en&layout=compact" alt="anonyuser-x" /></p>
 

@@ -67,11 +67,6 @@
   <img src="https://gitlab.com/kalilinux/documentation/graphic-resources/-/raw/27bf9e2c791773aaf65853512e12199ed1635607/kali-dragon-logo/kali-dragon-icon-simple-blue.svg" alt="kali-linux" width="40" height="40"/>
 </a>
 
-<!-- Nessus -->
-<a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/freelogovectors/nessus/master/nessus-logo.svg" alt="nessus" width="40" height="40"/>
-</a>
-
 <a href="https://nmap.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/nmap-logo.svg" alt="nmap" width="40" height="40"/>
 </a>

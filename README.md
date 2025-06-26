@@ -6,9 +6,8 @@
 <h3 align="center">Penetration Tester & Cybersecurity Enthusiast</h3>
 <!-- Red Team Banner -->
 <div align="center">
-  <img src="https://teeltechcanada.com/2015/wp-content/uploads/2017/08/cyber-security-banner-red.jpg" alt="Red Team Banner" style="width:100%; height:auto; display:block;" />
+  <img src="https://images.unsplash.com/photo-1557683316-973673baf926?auto=format&fit=crop&w=1920&q=80" alt="Red Team Cyber Security Banner" style="width:100%; height:auto; display:block;" />
 </div>
-
 
 <!-- Profile Views -->
 <p align="center">

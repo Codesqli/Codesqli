@@ -73,8 +73,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonyuser-x" alt="GitHub Streak" />
 </p>
-<div style="background-color:#121212; color:#f0f0f0; padding: 20px; border-radius: 15px;">
-  <h1 align="center">Hi 👋, I'm Kemal Baz</h1>
-  <h3 align="center">A student on her way to becoming a Penetration Tester specialist</h3>
-  <!-- Diğer içerikler... -->
 </div>

@@ -67,13 +67,13 @@
   
   <!-- Eklenen Siber Güvenlik Odaklı Araçlar -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Kali-dragon-icon.svg" alt="kali-linux" width="40" height="40"/>
+    <img src="https://gitlab.com/kalilinux/documentation/graphic-resources/-/raw/27bf9e2c791773aaf65853512e12199ed1635607/kali-dragon-logo/kali-dragon-icon-simple-blue.svg" alt="kali-linux" width="40" height="40"/>
   </a>
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap-logo.svg" alt="nmap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" alt="wireshark" width="40" height="40"/> 
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/nmap-logo.svg" alt="nmap" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/wireshark.svg" alt="wireshark" width="40" height="40"/>
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.rapid7.com/globalassets/_icons/metasploit-icon.svg" alt="metasploit" width="40" height="40"/> 

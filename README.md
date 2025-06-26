@@ -8,16 +8,13 @@
 <div align="center">
   <img src="https://teeltechcanada.com/2015/wp-content/uploads/2017/08/cyber-security-banner-red.jpg" alt="Red Team Banner" style="width:100%; height:auto; display:block;" />
 </div>
-<style>
-  .social-icon:hover {
-    transform: scale(1.2);
-    transition: transform 0.3s ease;
-  }
-</style>
+  
+## 🔥 Featured Projects
 
-<a href="https://linkedin.com/in/kemalbaz" target="_blank" rel="noreferrer">
-  <img class="social-icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-</a>
+- [Awesome Penetration Testing Tools](https://github.com/anonyuser-x/awesome-pentest-tools) — A curated list of penetration testing resources.
+- [Mobile Secure App](https://github.com/anonyuser-x/mobile-secure-app) — A mobile project with security-first approach.
+- [AI Cyber Defense](https://github.com/anonyuser-x/ai-cyber-defense) — Exploring AI-driven security techniques.
+
 
 <!-- Profile Views -->
 <p align="center">

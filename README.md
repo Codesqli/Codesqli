@@ -1,9 +1,9 @@
 <!-- README Profile for Kemal Baz -->
 
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Kemal Baz</h1>
-<h3 align="center">A student on his way to becoming a Penetration Tester specialist</h3>
-
+<div style="background-color:#121212; color:#f0f0f0; padding: 20px; border-radius: 15px;">
+  <h1 align="center">Hi 👋, I'm Kemal Baz</h1>
+  <h3 align="center">A student on her way to becoming a Penetration Tester specialist</h3>
 <!-- Red Team Banner -->
 <div align="center">
   <img src="https://teeltechcanada.com/2015/wp-content/uploads/2017/08/cyber-security-banner-red.jpg" alt="Red Team Banner" style="width:100%; height:auto; display:block;" />
@@ -73,3 +73,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anonyuser-x" alt="GitHub Streak" />
 </p>
+<div style="background-color:#121212; color:#f0f0f0; padding: 20px; border-radius: 15px;">
+  <h1 align="center">Hi 👋, I'm Kemal Baz</h1>
+  <h3 align="center">A student on her way to becoming a Penetration Tester specialist</h3>
+  <!-- Diğer içerikler... -->
+</div>

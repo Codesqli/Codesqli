@@ -52,7 +52,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-
+ </p>
+ <p align="center">
   <!-- Cybersecurity Tools -->
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://gitlab.com/kalilinux/documentation/graphic-resources/-/raw/27bf9e2c791773aaf65853512e12199ed1635607/kali-dragon-logo/kali-dragon-icon-simple-blue.svg" alt="kali-linux" width="40" height="40"/></a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/nmap-logo.svg" alt="nmap" width="40" height="40"/></a>

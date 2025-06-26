@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kemal Baz</h1>
 <h3 align="center">A student on her way to becoming a Penetration Tester specialist</h3>
-<img syle="align-item="center"; alt="Coding"; width=100%;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JkaXUwZDFvemhrb3l1Zzl6ampkM21uZW13OXF3cTNhcXBqYW13bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTTAjM197sku8MgrRa/giphy.gif">
-
+<div style="width:100%; overflow:hidden; text-align:center;">
+  <img src="https://teeltechcanada.com/2015/wp-content/uploads/2017/08/cyber-security-banner-red.jpg" alt="Red Team Banner" style="width:100%; height:auto; display:block;" />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anonyuser-x&label=Profile%20views&color=0e75b6&style=flat" alt="anonyuser-x" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonyuser-x" alt="anonyuser-x" /></a> </p>

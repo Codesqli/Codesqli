@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonyuser-x" alt="anonyuser-x" /></a> </p>
 
-- 🔭 I’m currently working on **web sites and mobile project**
+🔐 I’m currently working on cyber security, penetration testing, and secure web & mobile projects
 
-- 🌱 I’m currently learning **artificial intelligence and machine learning**
+📚 I’m currently learning artificial intelligence, machine learning, and advanced offensive security techniques
 
-- 🤝 I’m looking for help with **mobile projects**
+🤝 I’m looking to collaborate on mobile development and cybersecurity-focused projects
 
-- 💬 Ask me about **python , web projects**, Android Mobile Project**
+💬 Ask me about Python, web development, Android mobile apps, or cybersecurity tools & tactics
 
-- ⚡ Fun fact **Artificial intelligence will take over the world**
+⚡ Fun fact: The rise of artificial intelligence is unstoppable — but don't worry, I speak both human and machine 😎
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

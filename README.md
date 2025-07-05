@@ -6,7 +6,7 @@
 <h3 align="center">Penetration Tester & Cybersecurity Enthusiast</h3>
 <!-- Red Team Banner -->
 <div align="center">
-  <img src="https://github.com/Anonyuser-x/Anonyuser-x/blob/main/x.png" alt="Cyber Security Banner" style="width:100%; height:auto; display:block;" />
+  <img src="https://github.com/Anonyuser-x/Anonyuser-x/blob/main/animation.gif" alt="Cyber Security Banner" style="width:100%; height:auto; display:block;" />
 </div>
 
 <!-- Profile Views -->

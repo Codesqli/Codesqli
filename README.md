@@ -58,8 +58,6 @@
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/wireshark.svg" alt="wireshark" width="40" height="40"/></a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rohhthone/logo/main/metasploit.svg" alt="metasploit" width="40" height="40"/></a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Mit-Rax/BURPY/main/burp-suite-professional.svg" alt="burp-suite" width="40" height="40"/></a>
-  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/alvistack/ansible-role-owasp_zap/master/alvistack.svg" alt="owasp-zap" width="40" height="40"/></a>
-  <a href="https://github.com/EmpireProject/Empire" target="_blank" rel="noreferrer"><img src="https://worldvectorlogo.com/logos/empire.svg" alt="empire-framework" width="40" height="40"/></a>
 </p>
 
 <!-- GitHub Stats -->

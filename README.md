@@ -6,18 +6,18 @@
 <h3 align="center">Penetration Tester & Cybersecurity Enthusiast</h3>
 <!-- Red Team Banner -->
 <div align="center">
-  <img src="https://github.com/C0D3SQL1/C0D3SQL1/blob/main/animation.gif" alt="Cyber Security Banner" style="width:100%; height:auto; display:block;" />
+  <img src="https://github.com/Codesqli/Codesqli/blob/main/animation.gif" alt="Cyber Security Banner" style="width:100%; height:auto; display:block;" />
 </div>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=C0D3SQL1&label=Profile%20views&color=0e75b6&style=flat" alt="C0D3SQL1" />
+  <img src="https://komarev.com/ghpvc/?username=Codesqli&label=Profile%20views&color=0e75b6&style=flat" alt="Codesqli" />
 </p>
 
 <!-- Trophy Section -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=C0D3SQL1&theme=monokai" alt="C0D3SQL1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Codesqli&theme=monokai" alt="Codesqli" />
   </a>
 </p>
 
@@ -62,12 +62,12 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C0D3SQL1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Codesqli&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C0D3SQL1&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Codesqli&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0D3SQL1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codesqli" alt="GitHub Streak" />
 </p>
 </div>

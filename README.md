@@ -23,8 +23,8 @@
 
 <!-- About Section -->
 <h3 align="center">🔐 I’m currently working on cyber security, penetration testing, and secure web & mobile projects</h3>
-<h3 align="center">📚 I’m currently learning artificial intelligence, machine learning, and advanced offensive security techniques</h3>
-<h3 align="center">💬 Ask me about Python, web development, Android mobile apps, or cybersecurity tools & tactics</h3>
+<h3 align="center">📚 I’m currently learning Go programming language and Python django</h3>
+<h3 align="center">💬 Ask me about Python, web development, or cybersecurity tools & tactics</h3>
 
 <!-- Social Section -->
 <h3 align="center">Connect with me:</h3>

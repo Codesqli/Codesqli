@@ -16,11 +16,8 @@
 
 <!-- Trophy Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codesqli&theme=onedark&no-bg=true&no-frame=true&margin-w=15&cache=reset" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Codesqli&rank=-C,-B,-?&theme=onedark&no-bg=true&no-frame=true" />
 </div>
-
-
-
 
 <!-- About Section -->
 <h3 align="center">🔐 I’m currently working on cyber security, penetration testing, and secure web & mobile projects</h3>

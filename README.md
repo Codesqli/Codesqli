@@ -14,11 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=Codesqli&label=Profile%20views&color=0e75b6&style=flat" alt="Codesqli" />
 </p>
 
-<!-- Trophy Section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codesqli&rank=-C,-B,-?&theme=onedark&no-bg=true&no-frame=true" />
-</div>
-
 <!-- About Section -->
 <h3 align="center">🔐 I’m currently working on cyber security, penetration testing, and secure web & mobile projects</h3>
 <h3 align="center">📚 I’m currently learning Go programming language and Python django</h3>

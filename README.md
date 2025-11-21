@@ -16,7 +16,7 @@
 
 <!-- Trophy Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codesqli&rank=-C,-B,-?&theme=onedark&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=codesqli&rank=-C,-B,-?&theme=onedark&no-bg=true&no-frame=true" />
 </div>
 
 <!-- About Section -->

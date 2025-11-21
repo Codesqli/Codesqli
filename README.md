@@ -15,11 +15,12 @@
 </p>
 
 <!-- Trophy Section -->
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Codesqli" alt="Codesqli">
+    <img src="https://github-profile-trophy.vercel.app/?username=Codesqli&margin-w=10&theme=onedark" alt="Codesqli GitHub Trophies">
   </a>
-</p>
+</div>
+
 
 <!-- About Section -->
 <h3 align="center">🔐 I’m currently working on cyber security, penetration testing, and secure web & mobile projects</h3>
